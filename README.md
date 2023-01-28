@@ -1,7 +1,9 @@
 ### Hi there 👋 I am Aksana Dziakanchuk
 
 🔭 I’m currently working like a System Analyst on banking domain.
+
 🌱 I’m learning FrontEnd at RSSSchool.
+
 [Here my CV] https://ADziakon.github.io/rsschool-cv/
 
 ### Contact information

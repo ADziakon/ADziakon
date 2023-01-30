@@ -2,7 +2,7 @@
 
 🔭 I’m currently working like a System Analyst on banking domain. 
 
-🌱 I’m learning FrontEnd at RSSSchool.  
+🌱 I’m learning FrontEnd at [RSSchool](https://app.rs.school/course/student/dashboard?course=js-fe-preschool-2022q4).  
 
 ### Contact information
 
